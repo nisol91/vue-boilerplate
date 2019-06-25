@@ -1,4 +1,4 @@
-# vue-guide-sito
+# vue-boilerplate
 
 ## Project setup
 ```
